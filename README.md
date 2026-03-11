@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="images/ArabicVL-R_loqo.png" alt="ArabicVL-R Logo" width="180"/>
+  <img src="images/ArabicVL-R_loqo.png" alt="ArabicVL-R Logo" width="200"/>
 
 # ArabicVL-R 🌙
 
