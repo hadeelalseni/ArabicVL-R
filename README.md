@@ -3,7 +3,7 @@
 
 # ArabicVL-R 🌙
 
-**Arabic Vision Language Reasoning Benchmark** — A diagnostic benchmark for evaluating structured multimodal reasoning in Arabic
+**Arabic Vision Language Reasoning Benchmark** — A benchmark for evaluating structured multimodal reasoning in Arabic
 
 > 📄 *"ArabicVL-R: A Benchmark for Arabic Vision Language Model Reasoning"*  
 > | [Paper](#) | [Code](https://github.com/hadeelalseni/ArabicVL-R)
