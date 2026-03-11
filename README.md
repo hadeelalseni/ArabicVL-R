@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="images/ArabicVL-R_loqo.png" alt="ArabicVL-R Logo" width="180"/>
 
 # ArabicVL-R 🌙
